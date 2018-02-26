@@ -7,4 +7,5 @@ gabbu:
       name: "Company Y"
       surname: "1000200030004000"  
       
-name.ram=ram1
+name:
+  ram: ram1
