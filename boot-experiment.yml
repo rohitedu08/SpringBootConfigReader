@@ -1,144 +1,23 @@
 name:
   har: Har
-categories:
-  - categoryId: 1
-    products:
-      - id: 411
-        name: Rabo VermogenSparen(411)
-      - id: 412
-        name: Rabo StreekRekening(412)
-      - id: 413
-        name: Rabo StreekRekening(413)
-      - id: 414
-        name: Rabo StreekRekening(414)
-      - id: 416
-        name: Rabo VermogenSparen(416)
-      - id: 418
-        name: Rabo GroenSparen(418)
-      - id: 432
-        name: Rabo SpaarRekening(432)
-      - id: 433
-        name: Rabo InternetSparen(433)
-      - id: 434
-        name: Rabo PeriodeSparen 30(434)
-      - id: 439
-        name: Rabo PeriodeSparen 90(439)
-        startDate: 2017-01-01
-  - categoryId: 2
-    products:
-      - id: 134
-        name: Rabo ToekomstSparen(134)
-      - id: 138
-        name: Rabo ToekomstSparen(138)
-      - id: 151
-        name: Rabo DoelSparen(151)
-      - id: 210
-        name: Rabo OpbouwSpaarRekening(210)
-      - id: 211
-        name: Rabo OpbouwSpaarRekening(211)
-      - id: 212
-        name: Rabo OpbouwSpaarRekening(212)
-      - id: 330
-        name: Rabo LevensLoopSparen(330)
-      - id: 331
-        name: Rabo LevensLoopSparen(331)
-      - id: 350
-        name: Rabo LevensLoopSparen(350)
-      - id: 360
-        name: Rabo LevensLoopSparen(360)
-      - id: 365
-        name: Rabo LevensLoopSparen(365)
-      - id: 410
-        name: Rabo RegenboogRekening(410)
-      - id: 420
-        name: Rabo GeneratieSparenPlus(420)
-      - id: 421
-        name: Rabo GeneratieSparen(421)
-      - id: 491
-        name: Rabo DoelSparen(491)
-  - categoryId: 3
-    products:
-      - id: 460
-        name: Rabo BedrijfsBonusRekening(460)
-  - categoryId: 4
-    products:
-      - id: 105
-        name: Rabo Deposito(105)
-      - id: 106
-        name: Rabo GroenDeposito(106)
-      - id: 107
-        name: Rabo Deposito(107)
-      - id: 108
-        name: Rabo Deposito(108)
-      - id: 485
-        name: Rabo Deposito(485)
-      - id: 486
-        name: Rabo Deposito(486)
-      - id: 487
-        name: Rabo Deposito(487)
-      - id: 488
-        name: Rabo Deposito(488)
-      - id: 489
-        name: Rabo Maatschappelijk Verantwoord Deposito(489)
-  - categoryId: 5
-    products:
-      - id: 120
-        name: Rabo ToekomstSparen(120)
-      - id: 121
-        name: Rabo ToekomstSparen(121)
-      - id: 130
-        name: Rabo ToekomstSparen(130)
-      - id: 135
-        name: Rabo ToekomstSparen(135)
-      - id: 136
-        name: Rabo GoudenHanddrukSparen(136)
-      - id: 140
-        name: Rabo ToekomstSparen(140)
-      - id: 150
-        name: Rabo DoelSparen(150)
-      - id: 170
-        name: Rabo ToekomstSparen(170)
-      - id: 390
-        name: Rabo GoudenHanddrukSparen(390)
-      - id: 490
-        name: Rabo DoelSparen(490)
-  - categoryId: 6
-    products:
-      - id: 445
-        name: Rabo DoelReserveren(445)
-      - id: 440
-        name: Rabo BedrijfsSpaarRekening(440)
-  - categoryId: 7
-    products:
-      - id: 400
-        name: Rabo SpaarVrijRekening(400)
-      - id: 401
-        name: Rabo SpaarVrijRekening(401)
-      - id: 471
-        name: Rabo SpaarVrijRekening(471)
-      - id: 472
-        name: Rabo SpaarVrijRekening(472)
-  - categoryId: 8
-    products:
-      - id: 180
-        name: Rabo OpbouwSpaarRekening(180)
-      - id: 200
-        name: Rabo OpbouwSpaarRekening(200)
-      - id: 220
-        name: Rabo OpbouwSpaarRekening(220)
-      - id: 230
-        name: Rabo OpbouwSpaarRekening(230)
-      - id: 240
-        name: Rabo OpbouwSpaarRekening(240)
-      - id: 250
-        name: Rabo OpbouwSpaarRekening(250)
-      - id: 260
-        name: Rabo OpbouwSpaarRekening(260)
-      - id: 270
-        name: Rabo OpbouwSpaarRekening(270)
-      - id: 280
-        name: Rabo OpbouwSpaarRekening(280)
-      - id: 500
-        name: Rabo OpbouwSpaarRekening(500)
-      - id: 510
-        name: Rabo OpbouwSpaarRekening(510)
+categories: 
+  - 
+    categoryId: 1
+    products: 
+      - 
+        id: 411
+        name: "Rabo VermogenSparen(411)"
+      - 
+        id: 412
+        name: "Rabo StreekRekening(412)"
+  - 
+    categoryId: 2
+    products: 
+      - 
+        id: 134
+        name: "Rabo ToekomstSparen(134)"
+      - 
+        id: 138
+        name: "Rabo ToekomstSparen(138)"
+      - 
+        id: 151
