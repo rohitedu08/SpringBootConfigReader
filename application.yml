@@ -9,3 +9,5 @@ gabbu:
       
 name:
   ram: ram1
+app:
+  name: configclient
